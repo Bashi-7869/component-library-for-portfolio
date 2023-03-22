@@ -96,4 +96,26 @@ body{
     background-color:var(--off-white) ;
     padding: 4rem;
 }
+.foot{
+    background-color: black;
+    color:var(--praimary-color) ;
+    border: 2px solid var(--praimary-color);
+    border-end-end-radius: 01rem;
+    text-align: center;
+    padding-top: 3rem; 
+    font-size: 2rem;
+}
+.foot li{
+    text-align:center;
+    font-size: 1.1rem;
+    padding: 2rem 1rem;
+    
+   
+} 
+.foot .linka{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color: white;
+} 
+
 
