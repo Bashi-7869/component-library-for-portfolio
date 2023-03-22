@@ -53,4 +53,22 @@ body{
     display: inline;
     padding: 0rem 0.5rem;
 }
-
+.navigation{
+    background-color:var(--praimary-color) ;
+    color: black;
+    padding: 1rem;
+    border-end-start-radius: 1.3rem;
+    padding: 3rem 3rem;
+    /* box-shadow: 10rem; */
+}
+.navigation .nav{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.navigation .nav-pills{
+    text-align: right;
+}
+.navigation .link{
+    color:black;
+    font-size: 1.5rem;
+}
